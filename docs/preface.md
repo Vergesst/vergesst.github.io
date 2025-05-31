@@ -1,4 +1,4 @@
-# *PREFACE---写在前面的话*
+<h1 style="text-align: center"><em>Preface---写在前面的话</em></h1>
 </br>
 
 ### Why [vue](https://vuejs.org/)?
@@ -23,7 +23,7 @@
 
 回到正题，`为什么选择vue?`
 
-首先我要感谢[xy3](https://blog.skyw.cc)，是这位把我拎进了前端的门
+首先我要感谢[@xy3](https://blog.skyw.cc)，是这位把我拎进了前端的门
 
 作为我学习过的第一样前端框架，加上以前确实想过入手js，对vue倒确实有点感情的
 
@@ -42,5 +42,7 @@
 以上
 
 祝大家越来越好罢❤️❤️❤️
+</br>
+<br>
 
 <a style="float: right;">---Vergisst <sub>25.05.29 珠海</sub></a>
